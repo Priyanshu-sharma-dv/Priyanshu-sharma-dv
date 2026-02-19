@@ -19,8 +19,8 @@
 
 📫 How to reach me:
 - GitHub: https://github.com/Priyanshu-sharma-dv
-- Email: your-email@gmail.com
-- LinkedIn: your-linkedin-link
+- Email: priyanshutech7408@gmail.com
+- LinkedIn:https://www.linkedin.com/in/priyanshu-sharma-2a52222a5/
 
 😄 Pronouns:
 - He / Him
