@@ -4,12 +4,13 @@
 - Full Stack Development
 - React.js & Node.js
 - Java 
-- DevSecOps & Cloud (AWS, Jenkins, Docker)
+- DevSecOps & Cloud (AWS, Jenkins, Docker,kubernetes)
 
 🌱 I’m currently learning:
 - Advanced React & Backend APIs
-- System Design Basics
 - CI/CD Pipelines
+- Terraform
+- Sonarqube
 - Cloud Deployment
 
 💞️ I’m looking to collaborate on:
